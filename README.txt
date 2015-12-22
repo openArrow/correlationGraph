@@ -1,3 +1,7 @@
+This Project is implemeted using R programming.
+It creating correlation graph for a sea ice anamoly of particular region for a large time series data.Other Details inside the report inside the project
+
+
 Follow the steps to run the code!
 
 All the code in this project was run on RRO 3.2.2.
